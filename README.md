@@ -9,20 +9,16 @@ additional obligations with each new offer they make.
 ## Vocabulary
 
 * **Proposal**
- * A document soliciting offers toward a fixed amount of funding. Similar to a
-   *project* or *campaign* on Kickstarter or Indiegogo.
+  A _Proposal_ solicits _offers_ towards a fixed amount of funding. Similar to a *project* or *campaign* on Kickstarter or Indiegogo.
 
 * **Supporter**
- * A person who gives money to support proposals. Similar to a *funder* on
-   Indiegogo or a *backer* on Kickstarter.
+  A _Supporter_ backs proposals with offers. Similar to a *funder* on Indiegogo or a *backer* on Kickstarter.
 
 * **Offer**
- * A supporter's offer of support to a proposal, contingent upon the proposal
-   reaching its funding goal. Similar to (but not the same as) a *pledge* on
-   Kickstarter.
+  An _Offer_ comes from supporters for a specific proposal. Offers are contingent upon the proposal reaching its funding goal. Similar to (but not the same as) a *pledge* on Kickstarter.
 
 * **Intermediary**
- * The entity running the Thresh service.
+  An _Intermediary_ is an entity running the Thresh service.
 
 ## How it works
 
